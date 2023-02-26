@@ -1,0 +1,31 @@
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: lightgreen;
+}
+
+.amber {
+    background-color: darkorange;
+}
+
+.red {
+    background-color: red;
+}
+
+.Cgreen {
+    color: green;
+}
+
+.Cyellow {
+    color: lightgreen;
+}
+
+.Camber {
+    color: darkorange;
+}
+
+.Cred {
+    color: red;
+}
