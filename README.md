@@ -39,4 +39,4 @@ ParkMate is an innovative real-time parking management solution developed for **
 ---
 
 ## 📂 Repository Structure
-
+ParkMate/ ├── README.md # Project overview ├── frontend/ # Angular frontend code ├── backend/ # REST API implementation ├── models/ # Trained CNN models ├── sql/ # MySQL scripts for database setup ├── datasets/ # Sample datasets for testing └── docs/ # Documentation and project reports
